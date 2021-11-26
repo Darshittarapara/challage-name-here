@@ -47,7 +47,7 @@ margin-top: 10px;
 }
 .middle-portion {
   width: 360px;
-  height: 84vh;
+  height: 82vh;
   background:  rgb(236, 232, 232);
   padding: 10px;
   display: flex;
@@ -163,7 +163,7 @@ li,h4 {
 input {
   height: 7vh;
   width: 16vw;
-  border-radius: 20px;
+  border-radius: 15px;
 
 }
 button {
