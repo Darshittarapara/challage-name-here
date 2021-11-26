@@ -47,11 +47,11 @@ margin-top: 10px;
 }
 .middle-portion {
   width: 360px;
-  height: 80vh;
+  height: 77vh;
   background:  rgb(236, 232, 232);
   padding: 10px;
   display: flex;
-  margin-bottom:20px;
+  margin-bottom:30px;
   flex-direction: column;
 justify-content: space-around;
 border-bottom-left-radius: 20px;
