@@ -5,6 +5,7 @@
   font-size: 'Rubik', sans-serif;
 }
 body {
+  overflow-x:hidden;
 background-color: rgb(236, 232, 232);
 }
 .container {
